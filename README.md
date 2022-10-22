@@ -1,4 +1,4 @@
-# HierachicalClustering_Prac
+# HierarchicalClustering_Prac
 
 This is an Unsupervised Classification method because there are no prior 
 classification/response variable associated with the data visual technique.
